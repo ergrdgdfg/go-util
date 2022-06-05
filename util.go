@@ -2,6 +2,6 @@ package util
 
 import "fmt"
 
-func util() {
+func Util() {
 	fmt.Println("util")
 }
